@@ -7,3 +7,9 @@ Se procede abrir el archivo codigo_u2.ino el cual contiene el codigo de arduino 
 Pyhton
 Ahora conitnuamos con la parte de python ,  se debe de abrir el archivo requirements.txt para poder instalar las librerias necesarias para poder correr el programa en  el equipo , una vez instalado se abre el archvio codigo_2.py el cual contiene la programacion lado python.Al estar dentro del programa se tiene que configurar el puerto con el que se va a conectar por medio serial con la tarjeta y esto se realiza en la linea 11 del codigo  el cual cunta con una configuracion pre-programada con el 'COM7'.
 Una vez configurado el puerto serial se porcede a seleccionar la opcion de run module y a continuacion aparecera dos cuadros los cuales contiene la grafica con el voltaje en tiempo real y el otro contiene dos botones los cuales manejan las dos salidas digitales y por medio de estos dos botones se controla el encendido y apagado de dichas salidas mostrando en estado "OFF" cuando las salidas estan apagadas y en estado "ON" cuando las salidas estan activadas.
+
+Los nombres de los integrantes son :
+Roman Ruiz Corral
+Marco Polo Mancinas Valdez
+Carlos Ivan Ramirez Vazquez
+Christian Lopez Ramirez
