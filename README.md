@@ -1,6 +1,6 @@
 # evidencia_2
 
-Este proyecto se encarga de visualizar un voltaje en tiempo real el cual es adequirido de la tarjeta arduino , su otro proposito es el de controlar dos salidas digitales las cuales se podran encender y apagar en cualquier momento que se desea.
+Este proyecto se encarga de visualizar un voltaje en tiempo real el cual es adequirido de la tarjeta arduino uno , su otro proposito es el de controlar dos salidas digitales las cuales se podran encender y apagar en cualquier momento que se desea.
 Arduino 
 Se procede abrir el archivo codigo_u2.ino el cual contiene el codigo de arduino , una vez abierto este archivo tienes que seleccionar tus salidas digitales en las lineas 11 y 12 las cuales estan pre-configuradas como 6 y 7, en la linea 15 del codigo seleccionas tu entrada analogica la cual tiene pre-configurada como a0 , una vez concluido con estos pasos se procede a conectar la tarjeta a la PC , el siguiente paso seria verificar en que puerto esta conectada la tarjeta y eso se realiza en la opcion de select bord and port,ya  que se selecciono el puerto como la tarjeta correspondiente se porcede a verificar el codigo y cargalo a la tarjeta.
 
